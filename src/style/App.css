@@ -1,0 +1,7 @@
+.main__container{
+  background-color:  #22CCD5;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  height: 84vh;
+}
